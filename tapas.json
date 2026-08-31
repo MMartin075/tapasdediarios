@@ -1,0 +1,65 @@
+[
+  {
+    "nombre": "Clarín",
+    "provincia": "Buenos Aires",
+    "categoria": "General",
+    "imagen": "https://estaticos.kiosko.net/ar/750/clarin.jpg",
+    "enlace": "https://www.clarin.com/"
+  },
+  {
+    "nombre": "La Nación",
+    "provincia": "Buenos Aires",
+    "categoria": "General",
+    "imagen": "https://estaticos.kiosko.net/ar/750/lanacion.jpg",
+    "enlace": "https://www.lanacion.com.ar/"
+  },
+  {
+    "nombre": "Perfil",
+    "provincia": "Buenos Aires",
+    "categoria": "General",
+    "imagen": "https://estaticos.kiosko.net/ar/750/perfil.jpg",
+    "enlace": "https://www.perfil.com/"
+  },
+  {
+    "nombre": "Página/12",
+    "provincia": "Buenos Aires",
+    "categoria": "General",
+    "imagen": "https://estaticos.kiosko.net/ar/750/pagina12.jpg",
+    "enlace": "https://www.pagina12.com.ar/"
+  },
+  {
+    "nombre": "Crónica",
+    "provincia": "Buenos Aires",
+    "categoria": "General",
+    "imagen": "https://estaticos.kiosko.net/ar/750/cronica.jpg",
+    "enlace": "https://www.cronica.com.ar/"
+  },
+  {
+    "nombre": "Diario Popular",
+    "provincia": "Buenos Aires",
+    "categoria": "General",
+    "imagen": "https://estaticos.kiosko.net/ar/750/diario_popular.jpg",
+    "enlace": "https://www.diariopopular.com.ar/"
+  },
+  {
+    "nombre": "Ámbito",
+    "provincia": "Buenos Aires",
+    "categoria": "Economía",
+    "imagen": "https://estaticos.kiosko.net/ar/750/ambito_financiero.jpg",
+    "enlace": "https://www.ambito.com/"
+  },
+  {
+    "nombre": "El Cronista",
+    "provincia": "Buenos Aires",
+    "categoria": "Economía",
+    "imagen": "https://estaticos.kiosko.net/ar/750/cronista_comercial.jpg",
+    "enlace": "https://www.cronista.com/"
+  },
+  {
+    "nombre": "Olé",
+    "provincia": "Buenos Aires",
+    "categoria": "Deportes",
+    "imagen": "https://estaticos.kiosko.net/ar/750/ole.jpg",
+    "enlace": "https://www.ole.com.ar/"
+  }
+]
