@@ -1,0 +1,23 @@
+name: Actualizar Tapas
+
+on:
+  schedule:
+    - cron: '30 8 * * *' # Correrá a las 05:30 AM Argentina
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - run: pip install requests
+      - run: python scraper.py
+      - run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add tapas.json
+          git commit -m "Tapas actualizadas" || exit 0
+          git push
