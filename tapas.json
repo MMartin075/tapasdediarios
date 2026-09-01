@@ -3,49 +3,35 @@
     "nombre": "Clarín",
     "provincia": "Buenos Aires",
     "categoria": "General",
-    "imagen": "https://images.clarin.com/tapa/300/tapa.jpg",
+    "imagen": "https://www.clarin.com/redaccion/deportes/diario-clarin.jpg",
     "enlace": "https://www.clarin.com/"
   },
   {
     "nombre": "La Nación",
     "provincia": "Buenos Aires",
     "categoria": "General",
-    "imagen": "https://bucket1.glanacion.com/anexos/fotos/96/1234596.jpg",
+    "imagen": "https://www.lanacion.com.ar/pf/resources/images/placeholderLN-1200x800.jpg?d=2047",
     "enlace": "https://www.lanacion.com.ar/"
-  },
-  {
-    "nombre": "Página/12",
-    "provincia": "Buenos Aires",
-    "categoria": "General",
-    "imagen": "https://www.pagina12.com.ar/assets/media/logos/logo-p12.png",
-    "enlace": "https://www.pagina12.com.ar/"
   },
   {
     "nombre": "Perfil",
     "provincia": "Buenos Aires",
     "categoria": "General",
-    "imagen": "https://www.perfil.com/assets/img/logo-perfil.png",
+    "imagen": "",
     "enlace": "https://www.perfil.com/"
+  },
+  {
+    "nombre": "Página/12",
+    "provincia": "Buenos Aires",
+    "categoria": "General",
+    "imagen": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200",
+    "enlace": "https://www.pagina12.com.ar/"
   },
   {
     "nombre": "El Cronista",
     "provincia": "Buenos Aires",
     "categoria": "Economía",
-    "imagen": "https://www.cronista.com/files/image/414/414781/5ff46f882193b.png",
+    "imagen": "https://www.cronista.com/resizer/v2/https%3A%2F%2Fwww.cronista.com%2Fresizer%2Fv2%2FM5625RY4VNAFHEAXWVN6J5QFHA.png?auth=f9915651ccca5423b25203edddca904a9daebeec9499c5db05fd7c3783eaf5ac&height=630&width=1200&quality=70&focal=600%2C315",
     "enlace": "https://www.cronista.com/"
-  },
-  {
-    "nombre": "Ámbito",
-    "provincia": "Buenos Aires",
-    "categoria": "Economía",
-    "imagen": "https://www.ambito.com/css/img/logo-ambito.png",
-    "enlace": "https://www.ambito.com/"
-  },
-  {
-    "nombre": "Olé",
-    "provincia": "Buenos Aires",
-    "categoria": "Deportes",
-    "imagen": "https://www.ole.com.ar/images/ole-logo.png",
-    "enlace": "https://www.ole.com.ar/"
   }
 ]
